@@ -1,0 +1,20 @@
+{
+  "name": "qr-code-main-js-v2",
+  "version": "1.0.1",
+  "description": "QR code generation and redirect url code",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://atikur7860: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@github.com/atikur7860/qr-code-main-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atikur7860/qr-code-main-js/issues"
+  },
+  "homepage": "https://github.com/atikur7860/qr-code-main-js#readme"
+}
